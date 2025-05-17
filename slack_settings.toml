@@ -1,0 +1,3 @@
+[slack]
+token = "xoxb-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+channel = "#usb-log"
